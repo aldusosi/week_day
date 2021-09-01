@@ -16,6 +16,6 @@ passarem-se um determinado numero de dias.
 
 exemplo:
 
-**GET**/weekday-after?startDay={terca}&amountOfDays={5}
+**GET**/weekday-after?startDay=terca&amountOfDays=5
 
 resposta = "domingo"
